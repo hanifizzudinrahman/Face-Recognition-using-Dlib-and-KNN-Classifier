@@ -18,4 +18,3 @@ For example, if k=3, and the three closest face images to the given image in the
 * This implementation uses a weighted vote, such that the votes of closer-neighbors are weighted more heavily.
 
 Detail using Dlib libraries for Face Recognition in here: https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
-GitHub
